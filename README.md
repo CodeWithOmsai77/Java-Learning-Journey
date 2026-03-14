@@ -19,3 +19,7 @@ Projects
 - Bank Management System
 - Student Management System
 - Quiz Game
+
+## Author
+
+Omsai
