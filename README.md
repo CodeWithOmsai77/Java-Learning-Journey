@@ -17,6 +17,7 @@ Projects
 
 - Calculator Application
 - Bank Management System
+- Matrix Addition
 
 ## Author
 
