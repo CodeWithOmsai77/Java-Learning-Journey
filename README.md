@@ -17,8 +17,6 @@ Projects
 
 - Calculator Application
 - Bank Management System
-- Student Management System
-- Quiz Game
 
 ## Author
 
