@@ -1,7 +1,4 @@
-// Practical - 05. write a java program to sort a list of integers and the list of names
-//                  using arrays and strings.
-
-// Name :- Omsai Ganesh Dasari (52)
+// write a java program to sort a list of integers and the list of names using arrays and strings.
 
 import java.util.Scanner;
 
