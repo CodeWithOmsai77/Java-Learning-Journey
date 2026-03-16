@@ -13,9 +13,6 @@ public class SumUsingMethods {
         SumUsingMethods();
         SumUsingMethods();
         SumUsingMethods();
-
-
-
     }
     // static method
     // static is used because main() is static and it can directly call another static method
