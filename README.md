@@ -26,24 +26,6 @@ This repo documents my journey from **core fundamentals to advanced Java concept
 
 ---
 
-## 📁 Repository Structure
-
-```
-Java-OOP/
-│
-├── basics/
-├── conditionals/
-├── loops/
-├── arrays/
-├── strings/
-├── methods/
-├── oop/
-├── advanced/
-└── projects/
-```
-
----
-
 ## 🎯 Goals
 
 * Build strong problem-solving skills
