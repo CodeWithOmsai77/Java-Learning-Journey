@@ -1,24 +1,66 @@
-# Java Learning Journey
+# 🚀 Java Learning Journey
 
-This repository contains my Java learning programs from basics to advanced concepts.
+Welcome to my Java learning repository!
+This repo documents my journey from **core fundamentals to advanced Java concepts**, with well-structured programs and real-world projects.
 
-Topics Covered
+---
 
-- Java Basics
-- Conditionals
-- Loops
-- Arrays
-- Strings
-- Methods
-- Object Oriented Programming
-- Advanced Java Concepts
+## 📚 Topics Covered
 
-Projects
+* 🔹 Java Basics
+* 🔹 Conditional Statements (if-else, switch)
+* 🔹 Loops (for, while, do-while)
+* 🔹 Arrays
+* 🔹 Strings
+* 🔹 Methods & Functions
+* 🔹 Object-Oriented Programming (OOP)
+* 🔹 Advanced Java Concepts
 
-- Calculator Application
-- Bank Management System
-- Matrix Addition
+---
 
-## Author
+## 💻 Projects
 
-Omsai
+* 🧮 **Calculator Application**
+* 🏦 **Bank Management System**
+* ➕ **Matrix Addition Program**
+
+---
+
+## 📁 Repository Structure
+
+```
+Java-OOP/
+│
+├── basics/
+├── conditionals/
+├── loops/
+├── arrays/
+├── strings/
+├── methods/
+├── oop/
+├── advanced/
+└── projects/
+```
+
+---
+
+## 🎯 Goals
+
+* Build strong problem-solving skills
+* Master Java fundamentals
+* Understand OOP concepts deeply
+* Prepare for interviews and real-world development
+
+---
+
+## 👨‍💻 Author
+
+**Omsai Dasari**
+
+---
+
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐ to support my learning journey!
+
+---
