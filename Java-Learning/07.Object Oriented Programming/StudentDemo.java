@@ -24,7 +24,7 @@ public class StudentDemo {
         Scanner sc = new Scanner(System.in);
 
         // Creating an object of Student class. 's1' stores its reference.
-        // 'new Student()' creates object in heap memory
+       // 'new' creates object in heap memory. 'Student()' its is a constructor call
         Student s1 = new Student();
 
         System.out.print("Enter the name: ");
