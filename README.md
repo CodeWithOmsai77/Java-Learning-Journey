@@ -45,4 +45,4 @@ This repo documents my journey from **core fundamentals to advanced Java concept
 
 If you find this repository helpful, consider giving it a ⭐ to support my learning journey!
 
----
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=11998e&height=80&section=footer&fontSize=16&fontColor=0f2027"/> </p>
