@@ -61,7 +61,7 @@ class SavingsAccount extends Account {
 }
 
 // Main class
-public class BankSystem {
+public class BankManagementSystem {
     static Scanner sc = new Scanner(System.in);
     static ArrayList<Account> accounts = new ArrayList<>();
 
