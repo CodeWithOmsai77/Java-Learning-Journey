@@ -23,6 +23,7 @@ This repo documents my journey from **core fundamentals to advanced Java concept
 * 🧮 **Calculator Application**
 * 🏦 **Bank Management System**
 * ➕ **Matrix Addition Program**
+* 🏥 **Smart Hospital Management System**
 
 ---
 
